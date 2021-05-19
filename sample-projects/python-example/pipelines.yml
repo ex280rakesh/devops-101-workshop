@@ -2,7 +2,7 @@ resources:
   - name: myGitRepo
     type: GitRepo
     configuration:
-      gitProvider: git
+      gitProvider: Devopspipeline
       path: ex280rakesh/devops-101-workshop
       branches:
         include: main
