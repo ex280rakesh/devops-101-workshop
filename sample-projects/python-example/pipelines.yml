@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: git
-      path: batelt/devops-101-workshop
+      path: ex280rakesh/devops-101-workshop
       branches:
         include: master
   - name: myBuildInfo
